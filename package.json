@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/yih-en/my-first-electron#readme",
   "devDependencies": {
-    "electron": "^9.0.3"
+    "electron": "^9.4.0"
   }
 }
